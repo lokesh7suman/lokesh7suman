@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  ✨ Lokesh ✨</h1>
-<h3 align="center">A Passionate Wordpress Developer From India</h3>
+<h3 align="center">A Passionate Wordpress Developer </h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
