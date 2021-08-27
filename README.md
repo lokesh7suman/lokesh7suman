@@ -1,6 +1,6 @@
 
 <h1 align="left" id="lokeshkumar-title">:wave: Hello there! I'm Lokesh Kumar</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
+<h3 align="left">I am a Software Developer at Infigo Software </h3>
 
 
 <a href="#lokeshkumar-title">
@@ -8,8 +8,8 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Infigo Software**
-- :seedling: &nbsp;I’m currently learning **Swift**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
+- :seedling: &nbsp;I’m currently learning **Laravel**
+- :speech_balloon: &nbsp;I like to talk about **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **Twitter**
@@ -197,4 +197,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/lokeshkumar "Lokesh Kumar LinkedIn"
+[linkedin]: https://www.linkedin.com/in/lokesh-kumar-suman "Lokesh Kumar LinkedIn"
