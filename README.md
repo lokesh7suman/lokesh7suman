@@ -4,7 +4,7 @@
 
 
 <a href="#lokeshkumar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshkumard4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Infigo Software**
