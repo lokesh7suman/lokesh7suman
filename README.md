@@ -3,10 +3,11 @@
 <h3 align="left">I am a Software Developer at Infigo Software </h3>
 
 
-<a href="#lokeshkumar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar" align="right" />
-</a>
 
+
+  
+</a>
+<a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="400" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card" align="right"  /></a> <br>
 
 
 - :office: &nbsp;I'm currently working at **Infigo Software**
@@ -16,18 +17,24 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **Twitter**
 
-<a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="400" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card" align="right" /></a>
-<br>
+<br><br>
+
+<a href="#lokeshkumar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=d4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar"  />
+
+<br><br>
 
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-0073aa?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=Postman&logoColor=white" />
   
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -36,6 +43,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySql-F05032?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <h2 align="left" id="lokeshkumar-tech">Favorite Tech</h2>
