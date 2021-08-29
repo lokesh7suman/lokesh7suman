@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar" align="right" />
 </a>
 
+<a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="400" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card"/></a>
+
 - :office: &nbsp;I'm currently working at **Infigo Software**
 - :seedling: &nbsp;I’m currently learning **Laravel**
 - :speech_balloon: &nbsp;I like to talk about **Open Source**
