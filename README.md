@@ -7,7 +7,7 @@
 
   
 </a>
-<a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="400" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card" align="right"  /></a> <br>
+<a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="300" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card" align="right"  /></a> <br>
 
 
 - :office: &nbsp;I'm currently working at **Infigo Software**
