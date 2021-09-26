@@ -11,8 +11,8 @@
 
 
 - :office: &nbsp;I'm currently working at **Infigo Software**
-- :seedling: &nbsp;I’m currently learning **Laravel**
-- :speech_balloon: &nbsp;I like to talk about **Open Source**
+- :seedling: &nbsp;I’m currently learning **Laravel And React**
+- :speech_balloon: &nbsp;I like to talk about **Open Source Projects**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **Twitter**
