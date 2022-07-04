@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/DARKVENT"><img src="https://api.daily.dev/devcards/5a59748f4fe9456c917584f5a02a84c6.png?r=cdq" width="320" alt="DARKVENT ( Lokesh Kumar Suman)'s Dev Card" align="right"  /></a> <br>
 
 
-- :office: &nbsp;I'm currently working at **Infigo Software**
+- :office: &nbsp;I'm currently working at **Intechno Software**
 - :seedling: &nbsp;I’m currently learning **Laravel And React**
 - :speech_balloon: &nbsp;I like to talk about **Open Source Projects**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
