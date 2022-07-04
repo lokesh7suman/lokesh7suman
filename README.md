@@ -11,7 +11,7 @@
 
 
 - :office: &nbsp;I'm currently working at **Intechno Software**
-- :seedling: &nbsp;I’m currently learning **Laravel And React**
+- :seedling: &nbsp;I’m currently learning **React**
 - :speech_balloon: &nbsp;I like to talk about **Open Source Projects**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -168,7 +168,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#lokeshkumar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
