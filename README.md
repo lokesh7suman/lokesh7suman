@@ -20,7 +20,7 @@
 <br><br>
 
 <a href="#lokeshkumar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4rkvent&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh7suman&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lokesh Kumar"  />
 
 <br><br>
 
